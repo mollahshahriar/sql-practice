@@ -10,3 +10,15 @@ C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.cs
 C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
 C:\Users\Programming9\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.Form2.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.Form3.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Programming9\Documents\SQL Server Management Studio\sql shahriar\sql-practice\Calculator\Calculator\obj\Debug\Calculator.pdb
